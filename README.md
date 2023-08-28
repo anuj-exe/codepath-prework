@@ -27,24 +27,22 @@ GIF created with imgur
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## App Brainstorming (Step 4)
-1. YOUTUBE
-   - Multiple videos in a single frame.
-   - Upload my own content.
-   - Watch reels as well as large videos.
-   - Comment on other people's content.
-2. INSTAGRAM
-   - Multiple reels in a single frame on different topics or similar topic.
-   - Make my own reels.
-   - Upload a short story for a temporary time period.
-   - Upload Multiple photos.
-   - Able to Comment on other people's photos and get comments on my own.
-3. SNAPCHAT
-   - Watch Reels.
-   - Send a quick photo or reel to my friends.
-   - Upload a story or a picture for a short time period.
+1. YouTube
+   - Picture in picture feature
+   - Extremely engaging short-form content bar with a lot of facilitating features
+   - Smooth connectivity with Play store and App store facilitating fast payments and purchases
+2. Discord
+   - the smoothness of the app despite being loaded with features
+   - ability to create bots in the app and have them do anything a human user can do
+   - Live streaming
+   - GIF Emojis
+3. Snapchat
+   - Live location sharing on the snap map, which has a very attractive UI
+   - Bitmojis
+   - Ability to animate your bitmojis
 
 APP IDEA:
-I would like to build an app for my university where I will upload videos teaching data structures. In the app, there will be multiple video widgets showcasing the content, and when we click the video widget, it will take us to a new page with the video playing, a comments section, and a share button. I will use DataBase to store the videos, and I want to make this app specifically for students who want a self-paced environment.
+An app connected to GSU's Navigate application, for students to able to enter their daily life schedules and get recommendations on what classes they should register for on basis of their free time, required courses and some AI training of what kind of schedules do students prefer. I would use OpenAI API on my backend server with SQL to process this feature and iOS dev skills for the UX and the application part.
 
 ## Notes
 
